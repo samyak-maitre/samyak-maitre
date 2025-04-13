@@ -1,3 +1,10 @@
+# 📢 Account Update
+
+**Please note:** This is the official and updated GitHub account – [`samyak-maitre`](https://github.com/samyak-maitre).  
+The previous account – [`samyakmaitre`](https://github.com/samyakmaitre) – is no longer maintained.
+
+Kindly refer to this account for the latest projects, contributions, and updates.
+
 <h1 align="center">Hi 👋, I'm Samyak Maitre</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samyakmaitre&label=Profile%20views&color=0e75b6&style=flat" alt="samyakmaitre" /> </p>
