@@ -1,6 +1,6 @@
 # 📢 Account Update
 
-**Please note:** This is the official and updated GitHub account – [`samyak-maitre`](https://github.com/samyak-maitre).  
+**Please note:** This is the updated GitHub account – [`samyak-maitre`](https://github.com/samyak-maitre).  
 The previous account – [`samyakmaitre`](https://github.com/samyakmaitre) – is no longer maintained.
 
 Kindly refer to this account for the latest projects, contributions, and updates.
